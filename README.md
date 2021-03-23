@@ -32,7 +32,7 @@ Të obliguara:
     
     •	COUNT
     
-    • REVERSE
+    •  REVERSE
     
     •	PALINDROME
     
@@ -46,9 +46,9 @@ Të obliguara:
     
 Shtesë
 
-  •	MORSECODE
-  
-  •	BDAY
+    •	MORSECODE
+
+    •	BDAY
   
 
 Versionet e Klientëve e Serverëve janë zhvilluar në Python Console Application.
