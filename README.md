@@ -6,21 +6,24 @@ Dizajnimi dhe objektivat e programimit te këtij projekti janë që të bëhet d
 
 Projekti përmban programet:
 
-•	FIEK-TCP Serveri
+      •	FIEK-TCP Serveri
 
-•	FIEK-TCP Klienti
+      •	FIEK-TCP Klienti
 
-•	FIEK-UDP Serveri
+      •	FIEK-UDP Serveri
 
-•	FIEK-UDP Klienti
+      •	FIEK-UDP Klienti
 
 Veglat e përdorura për zhvillim të projektit :
+
       Microsoft Visual Studio Community Edition 2019
 
 Gjuha programuese e përdorura për zhvillim të projektit :
+
       Python Version 3.7
 
 Metodat e implementuara në projekt
+
 Të obliguara:
     •	IPADRESS
     •	PORT
