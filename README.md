@@ -25,19 +25,30 @@ Gjuha programuese e përdorura për zhvillim të projektit :
 Metodat e implementuara në projekt
 
 Të obliguara:
+
     •	IPADRESS
+    
     •	PORT
+    
     •	COUNT
+    
     • REVERSE
+    
     •	PALINDROME
+    
     •	TIME
+    
     •	GAME
+    
     •	GCF
+    
     •	CONVERT
     
 Shtesë
 
   •	MORSECODE
+  
   •	BDAY
+  
 
 Versionet e Klientëve e Serverëve janë zhvilluar në Python Console Application.
