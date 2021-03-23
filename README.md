@@ -7,8 +7,11 @@ Dizajnimi dhe objektivat e programimit te këtij projekti janë që të bëhet d
 Projekti përmban programet:
 
 •	FIEK-TCP Serveri
+
 •	FIEK-TCP Klienti
+
 •	FIEK-UDP Serveri
+
 •	FIEK-UDP Klienti
 
 Veglat e përdorura për zhvillim të projektit :
@@ -19,7 +22,6 @@ Gjuha programuese e përdorura për zhvillim të projektit :
 
 Metodat e implementuara në projekt
 Të obliguara:
-
     •	IPADRESS
     •	PORT
     •	COUNT
@@ -29,6 +31,7 @@ Të obliguara:
     •	GAME
     •	GCF
     •	CONVERT
+    
 Shtesë
 
   •	MORSECODE
