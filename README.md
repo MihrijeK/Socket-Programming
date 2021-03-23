@@ -32,7 +32,7 @@ Të obliguara:
     
     •	COUNT
     
-    •  REVERSE
+    • REVERSE
     
     •	PALINDROME
     
